@@ -1,0 +1,11 @@
+[project]
+name = "many"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.14"
+dependencies = [
+    "flet-map>=0.1.0",
+    "flet[all]>=0.28.3",
+    "pdbpp>=0.12.0rc1",
+]
